@@ -1,4 +1,10 @@
 .wrapper {
+  display: flex;
+  flex-direction: column;
   background-color: #232323;
   flex-grow: 1;
+}
+
+.centered {
+  margin: auto 0;
 }
